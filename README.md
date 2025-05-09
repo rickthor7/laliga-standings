@@ -69,7 +69,7 @@ Selisih Gol: 25
 --------------------------------------------------
 | No. | Nama Club       | Poin | Selisih Gol    |
 --------------------------------------------------
-| 1   | Barcelona       | 85   | 30            |
+| 1   | Barcelona       | 90   | 58            |
 | 2   | Real Madrid     | 82   | 28            |
 | 3   | Atletico        | 78   | 25            |
 --------------------------------------------------
@@ -87,7 +87,7 @@ Inorder Traversal BST:
 ----------------------
 | Nama Club     | Poin | Selisih Gol |
 ----------------------
-| Barcelona     | 85   | 30          |
+| Barcelona     | 90   | 58          |
 | Real Madrid   | 82   | 28          |
 | Atletico      | 78   | 25          |
 ----------------------
